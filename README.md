@@ -1,6 +1,8 @@
 # Aula 01
 Nesta aula, vamos começar o nosso mergulho em programação instalando o Node.Js e iniciando a criação do projeto com NPM, no final ainda vamos criar nossa API Key no Google AI Studio, a API do Gemini.
+
 <img src="aula01.png"><br>
+
 ## Nesta aula, você vai:
 - Conhecer o projeto de blog de fotos;
 - Instalar o Node.js;
