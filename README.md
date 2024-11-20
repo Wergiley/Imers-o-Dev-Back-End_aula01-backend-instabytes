@@ -1,7 +1,7 @@
 # Aula 01
 Nesta aula, vamos começar o nosso mergulho em programação instalando o Node.Js e iniciando a criação do projeto com NPM, no final ainda vamos criar nossa API Key no Google AI Studio, a API do Gemini.
 <img src="aula01.png"><br>
-## Nesta aula 01, você vai:
+## Nesta aula, você vai:
 - Conhecer o projeto de blog de fotos;
 - Instalar o Node.js;
 - Aprender o que é um servidor;
@@ -31,7 +31,7 @@ Nesta aula, iremos criar uma base de dados e um mock, com ajuda do Gemini, além
 Nesta aula, vamos criar variáveis de ambiente, configurar o primeiro cluster, databse e coleção no MongoDB, conectar com a API do Gemini e muito mais.
 
 <img scr="aula03.png"><br>
-## Nesta aula 03, você vai:
+## Nesta aula, você vai:
 - Configurar o primeiro Cluster, Database e coleção no MongoDB;
 - Criar variáveis de ambiente;
 - Conectar o Banco com a API via String de conexão;
