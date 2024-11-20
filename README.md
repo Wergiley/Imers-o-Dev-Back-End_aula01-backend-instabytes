@@ -21,7 +21,7 @@ Nesta aula, vamos começar o nosso mergulho em programação instalando o Node.J
 # Aula 02
 Nesta aula, iremos criar uma base de dados e um mock, com ajuda do Gemini, além de adicionar rotas e iniciar o processo de integrar a API no banco de dados, via MongoDB.
 
-<img scr="aula02.png"><br> 
+<img src="aula01.png"><br>
 ## Nesta aula, você vai:
 - Criar uma base de dados;
 - Criar um mock com ajuda do Gemini;
@@ -33,7 +33,7 @@ Nesta aula, iremos criar uma base de dados e um mock, com ajuda do Gemini, além
 # Aula 03
 Nesta aula, vamos criar variáveis de ambiente, configurar o primeiro cluster, databse e coleção no MongoDB, conectar com a API do Gemini e muito mais.
 
-<img scr="aula03.png"><br>
+<img src="aula01.png"><br>
 ## Nesta aula, você vai:
 - Configurar o primeiro Cluster, Database e coleção no MongoDB;
 - Criar variáveis de ambiente;
